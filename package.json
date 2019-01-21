@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "package": "file:package",
+    "acorn": "^5.0.0"
+  }
+}

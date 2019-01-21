@@ -1,0 +1,8 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "dependencies": {
+    "acorn": "^6.0.5",
+    "acorn-dynamic-import": "^4.0.0"
+  }
+}
